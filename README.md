@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Ahmed 👋</h1>
 
- <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+ <img src="https://github.com/Ahmed7Elsawy/Ahmed7Elsawy/blob/main/coding.gif" align="right" width="25%"/>
 
 I'm self-motivated tech enthusiast and Android developer. Some technologies I enjoy working with include Java, Kotlin, Android, and Firebase.
 
